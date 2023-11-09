@@ -83,7 +83,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'es', //Esta es la linea que se tiene que cambiar si queremos modifcar la ruta para los mensajes de autenticacion
 
     /*
     |--------------------------------------------------------------------------

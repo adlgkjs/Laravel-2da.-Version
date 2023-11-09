@@ -1,0 +1,51 @@
+html{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    background-color: rgb(245, 255, 255), 224;
+}
+
+.active{
+    color: red;
+    font-weight: bold;            
+}
+
+.crear-curso{
+    color: white;
+    background-color: #28a745;
+    padding: 10px;
+    border-radius: 6px;    
+}
+
+.crear-curso:hover{
+    color: white;
+    background-color: #2a8f42;
+    padding: 10px;
+    border-radius: 6px;    
+}
+
+.cursos-element:hover{
+    color: #28a745;
+}
+
+.volver-cursos{
+    color: white;
+    background-color: #007bff;
+    padding: 10px;
+    border-radius: 6px;    
+}
+
+.volver-cursos:hover{
+    color: white;
+    background-color: #006cdf;
+    padding: 10px;
+    border-radius: 6px;    
+}
+
+footer{
+    margin-top: auto;
+}
